@@ -16,10 +16,10 @@ const ThemeReducer = (state, action) => {
 };
 
 const ThemeState = (props) => {
-  let navbar_theme = JSON.parse(
-    localStorage.getItem("navbar_theme") ?? "theme_not_saved"
-  );
-  console.log();
+  let navbar_theme = localStorage.getItem("navbar_theme")
+    ? JSON.parse(localStorage.getItem("navbar_theme"))
+    : "theme_not_saved";
+
   const initialState = {
     theme: "",
     navbg: navbar_theme !== "theme_not_saved" ? navbar_theme.navbg : "",

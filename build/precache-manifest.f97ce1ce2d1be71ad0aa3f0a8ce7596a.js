@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eec0844da44ee0a6c50a7145d7723b36",
+    "revision": "248dc56eab79986d1cd0517aa35943af",
     "url": "/kam-react-switch-navbar-style/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kam-react-switch-navbar-style/static/css/2.d6bd1c3d.chunk.css"
   },
   {
-    "revision": "bca5f90c63d6b8a8cfe1",
+    "revision": "7281f192056c0d6dc60d",
     "url": "/kam-react-switch-navbar-style/static/css/main.11f10efb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kam-react-switch-navbar-style/static/js/2.6aae9e0c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bca5f90c63d6b8a8cfe1",
-    "url": "/kam-react-switch-navbar-style/static/js/main.2339486d.chunk.js"
+    "revision": "7281f192056c0d6dc60d",
+    "url": "/kam-react-switch-navbar-style/static/js/main.8df857b8.chunk.js"
   },
   {
     "revision": "ed934bcf406b98a519ea",

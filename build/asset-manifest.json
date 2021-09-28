@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/kam-react-switch-navbar-style/static/css/main.11f10efb.chunk.css",
-    "main.js": "/kam-react-switch-navbar-style/static/js/main.2339486d.chunk.js",
-    "main.js.map": "/kam-react-switch-navbar-style/static/js/main.2339486d.chunk.js.map",
+    "main.js": "/kam-react-switch-navbar-style/static/js/main.8df857b8.chunk.js",
+    "main.js.map": "/kam-react-switch-navbar-style/static/js/main.8df857b8.chunk.js.map",
     "runtime-main.js": "/kam-react-switch-navbar-style/static/js/runtime-main.ac93d314.js",
     "runtime-main.js.map": "/kam-react-switch-navbar-style/static/js/runtime-main.ac93d314.js.map",
     "static/css/2.d6bd1c3d.chunk.css": "/kam-react-switch-navbar-style/static/css/2.d6bd1c3d.chunk.css",
     "static/js/2.6aae9e0c.chunk.js": "/kam-react-switch-navbar-style/static/js/2.6aae9e0c.chunk.js",
     "static/js/2.6aae9e0c.chunk.js.map": "/kam-react-switch-navbar-style/static/js/2.6aae9e0c.chunk.js.map",
     "index.html": "/kam-react-switch-navbar-style/index.html",
-    "precache-manifest.94c68be39d9f4e123b46199f8a8c9c1b.js": "/kam-react-switch-navbar-style/precache-manifest.94c68be39d9f4e123b46199f8a8c9c1b.js",
+    "precache-manifest.f97ce1ce2d1be71ad0aa3f0a8ce7596a.js": "/kam-react-switch-navbar-style/precache-manifest.f97ce1ce2d1be71ad0aa3f0a8ce7596a.js",
     "service-worker.js": "/kam-react-switch-navbar-style/service-worker.js",
     "static/css/2.d6bd1c3d.chunk.css.map": "/kam-react-switch-navbar-style/static/css/2.d6bd1c3d.chunk.css.map",
     "static/css/main.11f10efb.chunk.css.map": "/kam-react-switch-navbar-style/static/css/main.11f10efb.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.d6bd1c3d.chunk.css",
     "static/js/2.6aae9e0c.chunk.js",
     "static/css/main.11f10efb.chunk.css",
-    "static/js/main.2339486d.chunk.js"
+    "static/js/main.8df857b8.chunk.js"
   ]
 }
